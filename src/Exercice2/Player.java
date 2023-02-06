@@ -1,5 +1,11 @@
 package Exercice2;
 
+/*
+*
+*@author Konate-Mk
+*
+*/
+
 public class Player {
     private String namePlayer;
     private int agePlayer;
