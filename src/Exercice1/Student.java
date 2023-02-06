@@ -1,5 +1,11 @@
 package Exercice1;
 
+/*
+*
+*@author Konate-Mk
+*
+*/
+
 public class Student {
     private String stdName;
     private int stdRollNo;
