@@ -1,6 +1,12 @@
 import Exercice1.Student;
 import Exercice2.Player;
 
+/*
+*
+*@author Konate-Mk
+*
+*/
+
 public class Main {
     public static void main(String[] args) {
 
